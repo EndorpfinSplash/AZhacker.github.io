@@ -3,13 +3,9 @@ layout: default
 ---
 ![Thumbnail of Hacker](smal_potrait.png)
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
+[Мотивационное письмо >>>](./another-page.html)
 
-[Мотивационное письмо](./another-page.html).
-
-hitespace between paragraphs.
-We recommend including a README, or a file with information about your project.
 
 # My experience background
 
@@ -22,7 +18,7 @@ _5 years._
 *	Development of JAVA classes and methods to implement customer’s business logic.
 *	Development of new REST/SOAP web-services by using JS-like scripting language.
 *	Support Network Inventory ETL dataflow processes.
-________________________________________________________________________________
+***
 
 Oct 2016 — 2018 <br> 
 _2 year._ 
@@ -36,7 +32,8 @@ _2 year._
   - Participation in Implementation insurance service for smartphones (developing utility classes, creating JDBC connections and preparing SQL statements for it, prestaging JSON and SOAP requests)
   - My own Java application: IVR-handler to manage vast system options for automatic answering and self-care (idea + design and implementation preparations).
 
-________________________________________________________________________________
+***
+
 Oct 2012 — Oct. 2016 <br> 
 _4 years 1 mon._ 
 ### A1(velcom) in the position of Engineer-Programmer of the Billing Operation group
@@ -47,13 +44,15 @@ _4 years 1 mon._
 *	Analysis of table data in order to make adjustments using sql-join, merge, sql correlated subqueries, sql analytic functions.
 *	Development info/alert triggers.
 *	API-development for new services.
-________________________________________________________________________________
+***
+
 Apr  2009 — Oct 2012 <br>
 _3 year 7 mon._ 
 ### A1(velcom) in the position of Network Operation Control Engineer
 
 *	Automation of routing processes using AutoIT, Excel, WinFIOL machine commands, UNIX shell scripting.
-________________________________________________________________________________
+***
+
 Jun  2007 — May 2009 <br>
 _1 year 11 mon._
 ### Republican Unitary Enterprise "Bellesexport" in the position of Sysadmin
@@ -62,6 +61,8 @@ _1 year 11 mon._
 *	VLAN managing.
 * 	AnyKey troubleshooter.
 * Maintain network and devices.
+
+*** 
 
 
 # My core skills
