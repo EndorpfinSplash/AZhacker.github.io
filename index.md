@@ -18,6 +18,7 @@ _5 years._
 *	Development of JAVA classes and methods to implement customer’s business logic.
 *	Development of new REST/SOAP web-services by using JS-like scripting language.
 *	Support Network Inventory ETL dataflow processes.
+
 ***
 
 Oct 2016 — 2018 <br> 
@@ -44,6 +45,7 @@ _4 years 1 mon._
 *	Analysis of table data in order to make adjustments using sql-join, merge, sql correlated subqueries, sql analytic functions.
 *	Development info/alert triggers.
 *	API-development for new services.
+
 ***
 
 Apr  2009 — Oct 2012 <br>
@@ -51,6 +53,7 @@ _3 year 7 mon._
 ### A1(velcom) in the position of Network Operation Control Engineer
 
 *	Automation of routing processes using AutoIT, Excel, WinFIOL machine commands, UNIX shell scripting.
+
 ***
 
 Jun  2007 — May 2009 <br>
@@ -66,23 +69,23 @@ _1 year 11 mon._
 
 
 # My core skills
-> *	Oracle PL/SQL 
-> *	Relational databases
-> - Java: 
->  - Servlets (Apache Tomcat)
->  - Spring Framework
->    - Spring Boot 
->    - Spring MVC
->    - Spring Data
->  - Lyambda  
-> * REST
-> *	SCV: Tortoise SVN , **GIT**  
-> *	Apache Maven 
-> *	Linux
-> *	Good knowledge of model OSI / telecom protocols
-> *	JIRA
-> * Business requirements analysis and design of schematic block diagram
-> *	Touch typing
+ *	Oracle PL/SQL 
+ *	Relational databases
+ - Java: 
+  - Servlets (Apache Tomcat)
+  - Spring Framework
+    - Spring Boot 
+    - Spring MVC
+    - Spring Data
+  - Lyambda  
+ * REST
+ *	SCV: Tortoise SVN , **GIT**  
+ *	Apache Maven 
+ *	Linux
+ *	Good knowledge of model OSI / telecom protocols
+ *	JIRA
+ * Business requirements analysis and design of schematic block diagram
+ *	Touch typing
 
 # About myself
 ```
@@ -116,7 +119,6 @@ English — I can read professional documentation and I have good communication 
 10. [x] 2008 «БЕЛСОФТ» LAN: standards, switching, routing, project design basis
 
 <!-- TOC -->
-  * [layout: default](#layout--default)
 * [My experience background](#my-experience-background)
     * [LifeTech in the position of Engineer-Programmer of the Software Development Department](#lifetech-in-the-position-of-engineer-programmer-of-the-software-development-department)
     * [A1(velcom) in the position of Engineer-Programmer of the Development Application group](#a1--velcom--in-the-position-of-engineer-programmer-of-the-development-application-group)
