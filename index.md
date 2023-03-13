@@ -87,7 +87,9 @@ _1 year 11 mon._
 # About myself
 ```
 Responsive, purposeful, well intentioned and balanced.
-I'm interested back-end technologies, especially in the Telecom domain where I could apply my skills and improve my experience.
+I'm interested back-end technologies,
+especially in the Telecom domain where I could 
+apply my skills and improve my experience.
 ```
 ## Education
 
