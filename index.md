@@ -4,7 +4,7 @@ layout: default
 <img alt="Thumbnail of Hacker" height="111" src="smal_potrait.png" width="88"/>
 
 
-[Мотивационное письмо >>>](./another-page.html)
+[Мотивационное письмо ->](./another-page.html)
 
 # My experience background
 
@@ -18,7 +18,7 @@ _5 years._
 LifeTech in the position of Engineer-Programmer of the Software Development Department
 </summary>
 
-    <p>Support and exploitation Backbone Network Inventory Framework (from NetCracker).</p>
+    * Support and exploitation Backbone Network Inventory Framework (from NetCracker).
     <p>Development/Update/Turning/Logical optimization network reports based on complex SQL queries with using analytical functions and hierarchy queries.</p>
     <p>Development of JAVA classes and methods to implement customer’s business logic.</p>
     <p>Development of new REST/SOAP web-services by using JS-like scripting language.</p>
@@ -146,22 +146,6 @@ English — I can read professional documentation and I have good communication 
 8. [x] 2013 Knowlege Centre - Red Hat Linux Essentials
 9. [x] 2011 IBA - Pre-intermediate ENGHLISH
 10. [x] 2008 «БЕЛСОФТ» LAN: standards, switching, routing, project design basis
-
-<!-- TOC -->
-
-* [My experience background](#my-experience-background)
-    * [LifeTech in the position of Engineer-Programmer of the Software Development Department](#lifetech-in-the-position-of-engineer-programmer-of-the-software-development-department)
-    * [A1(velcom) in the position of Engineer-Programmer of the Development Application group](#a1--velcom--in-the-position-of-engineer-programmer-of-the-development-application-group)
-    * [A1(velcom) in the position of Engineer-Programmer of the Billing Operation group](#a1--velcom--in-the-position-of-engineer-programmer-of-the-billing-operation-group)
-    * [A1(velcom) in the position of Network Operation Control Engineer](#a1--velcom--in-the-position-of-network-operation-control-engineer)
-    * [Republican Unitary Enterprise "Bellesexport" in the position of Sysadmin](#republican-unitary-enterprise--bellesexport--in-the-position-of-sysadmin)
-* [My core skills](#my-core-skills)
-* [About myself](#about-myself)
-    * [Education](#education)
-        * [Foreign language](#foreign-language)
-* [Trainings](#trainings)
-
-<!-- TOC -->
 
 ***
 Contact me by e-mail: <a href="mailto:fast.optimus@gmail.com">Andrey Zinovich</a>.<br>
