@@ -2,5 +2,5 @@ title: Andrey Zinovich
 description: Java and PL\SQL developer.
 
 show_downloads: true
-google_analytics:
+#google_analytics:
 theme: jekyll-theme-hacker

@@ -1,123 +1,133 @@
 ---
 layout: default
 ---
+![Thumbnail of Hacker](smal_potrait.png)
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
+
 [Мотивационное письмо](./another-page.html).
 
-There should be whitespace between paragraphs.
+hitespace between paragraphs.
+We recommend including a README, or a file with information about your project.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# My experience background
 
-# Header 1
+2018 — now <br>
+_5 years._
+### LifeTech in the position of Engineer-Programmer of the Software Development Department
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+*	Support and exploitation Backbone Network Inventory Framework (from NetCracker).
+*	Development/Update/Turning/Logical optimization network reports based on complex SQL queries with using analytical functions and hierarchy queries.
+*	Development of JAVA classes and methods to implement customer’s business logic.
+*	Development of new REST/SOAP web-services by using JS-like scripting language.
+*	Support Network Inventory ETL dataflow processes.
+________________________________________________________________________________
 
-## Header 2
+Oct 2016 — 2018 <br> 
+_2 year._ 
+### A1(velcom) in the position of Engineer-Programmer of the Development Application group
+*	Development of PL/SQL API for IVR and web-site.
+*	Development and initialization of new services in the back-end (Java) for shop.velcom.by
+*	Refactoring and debugging Java code for the website.
+*	Script design/implementation of IVR for the Aspect M3 Designer application, USSD.
+*	IVR interconnect tuning with billing system by using SOAP web-services.
+- Projects:
+  - Participation in Implementation insurance service for smartphones (developing utility classes, creating JDBC connections and preparing SQL statements for it, prestaging JSON and SOAP requests)
+  - My own Java application: IVR-handler to manage vast system options for automatic answering and self-care (idea + design and implementation preparations).
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+________________________________________________________________________________
+Oct 2012 — Oct. 2016 <br> 
+_4 years 1 mon._ 
+### A1(velcom) in the position of Engineer-Programmer of the Billing Operation group
 
-### Header 3
+*	API modification as it relates to tax initialization in 2013.
+*	Preparation and execution of the denomination in the DB level in 2016.
+*	Tuning of PL SQL procedures/function, tables, bug fixing.
+*	Analysis of table data in order to make adjustments using sql-join, merge, sql correlated subqueries, sql analytic functions.
+*	Development info/alert triggers.
+*	API-development for new services.
+________________________________________________________________________________
+Apr  2009 — Oct 2012 <br>
+_3 year 7 mon._ 
+### A1(velcom) in the position of Network Operation Control Engineer
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+*	Automation of routing processes using AutoIT, Excel, WinFIOL machine commands, UNIX shell scripting.
+________________________________________________________________________________
+Jun  2007 — May 2009 <br>
+_1 year 11 mon._
+### Republican Unitary Enterprise "Bellesexport" in the position of Sysadmin
+
+*	Kerio WinRoute Firewall administration.
+*	VLAN managing.
+* 	AnyKey troubleshooter.
+* Maintain network and devices.
+
+
+# My core skills
+> *	Oracle PL/SQL 
+> *	Relational databases
+> - Java: 
+>  - Servlets (Apache Tomcat)
+>  - Spring Framework
+>    - Spring Boot 
+>    - Spring MVC
+>    - Spring Data
+>  - Lyambda  
+> * REST
+> *	SCV: Tortoise SVN , **GIT**  
+> *	Apache Maven 
+> *	Linux
+> *	Good knowledge of model OSI / telecom protocols
+> *	JIRA
+> * Business requirements analysis and design of schematic block diagram
+> *	Touch typing
+
+# About myself
 ```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+Responsive, purposeful, well intentioned and balanced.
+I'm interested back-end technologies, especially in the Telecom domain where I could apply my skills and improve my experience.
 ```
+## Education
 
-#### Header 4
+**Belorussian State Technical University** _2002 – 2007, Minsk_ <br>
+Instrument Engineering Department. <br>
+Engineer. <br> 
+Profession: «safety technology», <br>
+Specialty: «Hardware-software tools of protection of computer information»
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### Foreign language
+English — I can read professional documentation and I have good communication skills.
 
-##### Header 5
+# Trainings
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1. [x] 2021 practicum.yandex.ru - Курс «Python-разработчик» , Django, Algorithms, Docker
+2. [x] 2020 it-academy.by - [Промышленная разработка программного обеспечения на Java](https://www.it-academy.by/course/java-developer/)
+3. [x] 2019 javaops.ru - Enterprise Java-разработчик
+4. [x] 2018 Javarush.ru - Java Core,  Multithreading, Collections
+5. [x] 2017 SoftLine Education - Java SE Programing. Core.
+6. [x] 2015 SoftLine Education - Tuning SQL Oracle 11g
+7. [x] 2013 Knowlege Centre - Oracle Database: PL\SQL Fundamentals
+8. [x] 2013 Knowlege Centre - Red Hat Linux Essentials
+9. [x] 2011 IBA - Pre-intermediate ENGHLISH
+10. [x] 2008 «БЕЛСОФТ» LAN: standards, switching, routing, project design basis
 
-###### Header 6
+<!-- TOC -->
+  * [layout: default](#layout--default)
+* [My experience background](#my-experience-background)
+    * [LifeTech in the position of Engineer-Programmer of the Software Development Department](#lifetech-in-the-position-of-engineer-programmer-of-the-software-development-department)
+    * [A1(velcom) in the position of Engineer-Programmer of the Development Application group](#a1--velcom--in-the-position-of-engineer-programmer-of-the-development-application-group)
+    * [A1(velcom) in the position of Engineer-Programmer of the Billing Operation group](#a1--velcom--in-the-position-of-engineer-programmer-of-the-billing-operation-group)
+    * [A1(velcom) in the position of Network Operation Control Engineer](#a1--velcom--in-the-position-of-network-operation-control-engineer)
+    * [Republican Unitary Enterprise "Bellesexport" in the position of Sysadmin](#republican-unitary-enterprise--bellesexport--in-the-position-of-sysadmin)
+* [My core skills](#my-core-skills)
+* [About myself](#about-myself)
+  * [Education](#education)
+    * [Foreign language](#foreign-language)
+* [Trainings](#trainings)
+<!-- TOC -->
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+***
+Contact me by e-mail: <a href="mailto:fast.optimus@gmail.com">Andrey Zinovich</a>.<br>
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
