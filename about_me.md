@@ -28,7 +28,7 @@ apply my skills and improve my experience.
     <i>
         Responsive, purposeful, well-intentioned and balanced.
     </i>
-/p>
+</p>
 
 
 
