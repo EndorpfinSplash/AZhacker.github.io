@@ -5,7 +5,7 @@ layout: default
 # About myself
 
 
-<p><i>I have 10 years’ experience in Telecommunication domain development using PL/SQL and Java.
+<p><i>I have 10 years experience in Telecommunication domain development using PL/SQL and Java.
 I have wide background from programming interactive voice response system to development and turning billing processes.
 In my job I tend to apply the latest programming innovations and features into development process. 
 I make it my goal to create a scalable, flexible and reusable issues.</i></p> 
