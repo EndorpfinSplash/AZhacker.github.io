@@ -15,7 +15,7 @@ layout: default
 - ANSI SQL (Oracle PL/SQL)
 - Relational databases
 - REST API
-- SCV: Tortoise SVN , **GIT**
+- SCV: **GIT** , Tortoise SVN  
 - Apache Maven
 - Linux
 - Good knowledge of model OSI / telecom protocols
