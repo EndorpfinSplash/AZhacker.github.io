@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-<img alt="Thumbnail of Hacker" height="111" src="smal_potrait.png" width="88"/>
+
+[//]: # (<img alt="Thumbnail of Hacker" height="111" src="smal_potrait.png" width="88"/>)
 
 
 # My experience background

@@ -57,9 +57,9 @@ layout: default
 Продолжу работать в своей текущей компании не оставляя попыток перейти на более высокий уровень.
 </i>
 
-[//]: # (<img alt="img_1.png" height="300" src="img.png" title="br-bug" width="500"/>)
 </details>
 
+[//]: # (<img alt="img_1.png" height="300" src="img.png" title="br-bug" width="500"/>)
 
 
 
